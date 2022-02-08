@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shashank-Iyer_Ex-02/1.0.0": {
+        "runtime": {
+          "Shashank-Iyer_Ex-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shashank-Iyer_Ex-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

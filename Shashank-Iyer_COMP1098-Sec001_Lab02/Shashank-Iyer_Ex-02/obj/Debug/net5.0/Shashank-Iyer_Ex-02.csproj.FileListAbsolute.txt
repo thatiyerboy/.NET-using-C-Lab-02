@@ -1,0 +1,15 @@
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/Shashank-Iyer_Ex-02.deps.json
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/Shashank-Iyer_Ex-02.runtimeconfig.json
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/Shashank-Iyer_Ex-02.runtimeconfig.dev.json
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/Shashank-Iyer_Ex-02.dll
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/ref/Shashank-Iyer_Ex-02.dll
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/bin/Debug/net5.0/Shashank-Iyer_Ex-02.pdb
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.csproj.AssemblyReference.cache
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.AssemblyInfoInputs.cache
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.AssemblyInfo.cs
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.csproj.CoreCompileInputs.cache
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.dll
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/ref/Shashank-Iyer_Ex-02.dll
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.pdb
+/Users/shashu/Desktop/C# .NET /Shashank-Iyer_COMP1098-Sec001_Lab02/Shashank-Iyer_Ex-02/obj/Debug/net5.0/Shashank-Iyer_Ex-02.genruntimeconfig.cache
